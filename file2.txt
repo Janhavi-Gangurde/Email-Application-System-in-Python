@@ -1,0 +1,4 @@
+from:	firebase-noreply@google.com
+to:	jagtapprashant2020@gmail.com
+date:	7 May 2022, 00:10
+subject:	[Firebase] Your Realtime Database 'javamcq-f440b-default-rtdb' has insecure rules
